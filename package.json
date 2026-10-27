@@ -1,0 +1,15 @@
+{
+  "name": "demo-target-tools",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Report helper tools for the PatchPilot demo target",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test tools/report.test.js"
+  },
+  "dependencies": {
+    "lodash": "4.17.15"
+  }
+}
