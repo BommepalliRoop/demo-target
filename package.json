@@ -10,6 +10,6 @@
     "test": "node --test tools/report.test.js"
   },
   "dependencies": {
-    "lodash": "4.17.15"
+    "lodash": "4.18.0"
   }
 }
